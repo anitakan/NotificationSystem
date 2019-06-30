@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationSystem</string>
+    <string name="title_notification_system">Welcome To Notification System</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="send_SMS">Send SMS</string>
+    <string name="send_email">Send Email</string>
+</resources>
